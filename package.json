@@ -1,0 +1,17 @@
+{
+  "name": "cli-bulk-mailer",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Krasiyan Nedelchev",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "node-uuid": "^1.4.3",
+    "nodemailer": "^1.4.0",
+    "nodemailer-smtp-pool": "^1.1.1",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": ">= 0.10.32"
+  }
+}
